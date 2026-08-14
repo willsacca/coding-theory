@@ -1,5 +1,5 @@
-name: same-env
+name: sage-env
 channels:
   - conda-forge
 dependencies:
-  -sage=10.4
+  - sage=10.4
