@@ -1,2 +1,2 @@
-#!/bin/bash 
-/srv/conda/envs/sage-env/bin/python -m sage.repl.ipython_kernel.install --user
+#!/bin/bash
+python -m sage.repl.ipython_kernel.install --user
