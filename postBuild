@@ -1,0 +1,1 @@
+sage -sh -c 'python -m sage.repl.ipython_kernel.install --user'
